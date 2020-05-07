@@ -250,3 +250,24 @@ body{
         display: none;
     }
 }
+@media (max-width: 531px){
+    .container{
+        height: 650px;
+    }
+}
+@media (max-width: 459px){
+    .container{
+        height: 700px;
+    }
+    .latest{
+        display: none;
+    }
+    .title h1{
+        font-size: 25px;
+    }
+}
+@media (max-width: 320px){
+    .container{
+        height: 750px;
+    }
+}
