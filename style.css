@@ -228,6 +228,9 @@ body{
     color: #64666d;
     font-weight: 700;
 }
+.md-light{
+    color: white;
+}
 @media (max-width: 1273px){
     .hide{
         display: none;
